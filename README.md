@@ -6,7 +6,7 @@
 
 **Watching Lessons**
 
-- [ ] Lessons 1 to 5
+- [x] Lessons 1 to 5
 - [ ] Lessons 6 to 10
 - [ ] Lessons 11 to 14
 
