@@ -4,7 +4,7 @@
 
 **Watching Lessons**
 
-- [x] Lessons 1 to 5
+- [x] [Lessons 1 to 5](https://elzero.org/html-assignments-lesson-from-1-to-5/)
 - [ ] Lessons 6 to 10
 - [ ] Lessons 11 to 14
 
