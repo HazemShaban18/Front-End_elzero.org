@@ -1,4 +1,4 @@
-# [HTML](https://elzero.org/study/html-2021-study-plan/)
+# [HTML](https://elzero.org/study/html-2021-study-plan/){:target="\_blank"}
 
 ## Week1
 
@@ -16,9 +16,9 @@
 
 **Searching**
 
-- [x] [Quirks Mode](https://www.youtube.com/watch?v=sBFemL2Mfj4&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=6&t=24s)
+- [x] [Quirks Mode](https://www.youtube.com/watch?v=sBFemL2Mfj4&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=6&t=24s){:target="\_blank"}
 > There are now three modes used by the layout engines in web browsers: quirks mode, almost standards mode, and full standards mode. In quirks mode, layout emulates nonstandard behavior in Navigator 4 and Internet Explorer 5. This is essential in order to support websites that were built before the widespread adoption of web standards. In full standards mode, the behavior is (hopefully) the behavior described by the HTML and CSS specifications. In almost standards mode, there are only a very small number of quirks implemented.
-> [more about Quirks Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
+> [more about Quirks Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode){:target="\_blank"}
 
 - [ ] HTML Meta List
 - [ ] HTML Rendering Mode
@@ -31,10 +31,10 @@
 
 *soon*
 
-# [CSS](https://elzero.org/study/css-2021-study-plan/)
+# [CSS](https://elzero.org/study/css-2021-study-plan/){:target="\_blank"}
 
 *soon*
 
-# [JavaScript](https://elzero.org/study/javascript-bootcamp-2021-study-plan/)
+# [JavaScript](https://elzero.org/study/javascript-bootcamp-2021-study-plan/){:target="\_blank"}
 
 *soon*
