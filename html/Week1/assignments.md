@@ -1,7 +1,7 @@
 # [Lessons 1 to 5](https://elzero.org/html-assignments-lesson-from-1-to-5/)
 
 ## assingment 1 
-What HTML stands for? **==> Hyper Text Markup Language**
+* What HTML stands for? **==> Hyper Text Markup Language**
 
 ## [assignment 2](./Lesson1to5.html)
 
