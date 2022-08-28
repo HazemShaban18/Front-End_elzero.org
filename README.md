@@ -1,6 +1,6 @@
 # [HTML](https://elzero.org/study/html-2021-study-plan/)
 
-## - [ ] Week1
+## Week1
 
 **Watching Lessons**
 
@@ -23,11 +23,11 @@
 - [ ] HTML Meta List
 - [ ] HTML Rendering Mode
 
-## - [ ] Week2
+## Week2
 
 *soon*
 
-## - [ ] Week3
+## Week3
 
 *soon*
 
