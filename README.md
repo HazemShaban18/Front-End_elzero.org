@@ -12,7 +12,7 @@
 
 **Assignments**
 
-- [ ] For lessons 1 to 5
+- [x] For lessons 1 to 5
 - [ ] For lessons 6 to 10
 - [ ] For lessons 11 to 14
 
