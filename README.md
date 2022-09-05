@@ -20,7 +20,7 @@
 
 > Quirks mode is a technique used by many web browsers for maintaining backward compatibility with web pages designed for old web browsers instead of strictly complying with W3C standards. In Quirks mode, the internet browser tries to interpret on ‘best-guess’, this associated with a general understanding of code that might be not well structured, non-standard, or ineffectively written implies your page is running without a type declaration. The general purpose of quirks mode is that it’s a compatibility mode for IE5. This intends that as well as changing the layout mode, it additionally turns off most of the browser features that have been created since IE5. In quirks mode, browsers accept and behave like in the early days of the web. It accepts any badly formatted, malformed mark-up in this mode and is not strict with syntax, tags, and elements of it. This was done to avoid breaking old sites too much in new browsers.
 
-- [x] [HTML Meta List]
+- [x] HTML Meta List
 
 > HTML lets you specify metadata - additional important information about a document in a variety of ways. The META elements can be used to include name/value pairs describing properties of the HTML document, such as author, expiry date, a list of keywords, document author etc.
 
