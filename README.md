@@ -2,7 +2,7 @@
 
 ## Week1
 
-**Watching Lessons**
+**[Watching Lessons](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)**
 
 - [x] 1 to 5
 - [x] 6 to 10
