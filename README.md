@@ -4,14 +4,14 @@
 
 **Watching Lessons**
 
-- [x] Lessons 1 to 5
-- [ ] Lessons 6 to 10
-- [ ] Lessons 11 to 14
+- [x] 1 to 5
+- [x] 6 to 10
+- [ ] 11 to 14
 
 **Assignments**
 
-- [x] [For lessons 1 to 5](html/Week1/Lessons1to5/assignments.md)
-- [ ] For lessons 6 to 10
+- [x] [For lessons 1 to 5](./html/Week1/Lessons1to5/assignments.md)
+- [x] [For lessons 6 to 10](./html/Week1/Lessons6to10/assignments.md)
 - [ ] For lessons 11 to 14
 
 **Searching**
