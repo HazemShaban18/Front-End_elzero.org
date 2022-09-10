@@ -11,7 +11,7 @@
 
 * What is the Rendering Mode for the browser if you don't type the versioning line?
 
->**Answer ==> Quirk Mode**
+>**Answer ==> Quirks Mode**
 
 * Is it correct to use more than one h1 per page? Answer yes or no?
 
@@ -35,7 +35,7 @@
 <p class=element>Welcome To The New World</p>
 ```
 
-> **Answer ==> No**
+> **Answer ==> There is no difference**
 
 # [assignment3](./assignment3.html)
 
@@ -46,7 +46,7 @@
 <p class="element" hidden>Welcome To The New World</p>
 ```
 
-> **Answer ==> No**
+> **Answer ==> There is no difference**
 
 # [assignment4](./assignment4.html)
 
@@ -72,25 +72,25 @@ World
 </p>
 ```
 
-> **Answer ==> Yes**
+> **Answer ==> All of them will appear in the same format**
 # assignment5
 
 * Next to each Attribute from the example, write Is it from the Global Attributes or not?
 
-> **title ==> Yes** 
+> **title ==> Global** 
 
-> **href ==> No**
+> **href ==> Local**
 
-> **src ==> No**
+> **src ==> Local**
 
-> **hidden ==> Yes**
+> **hidden ==> Global**
 
-> **charset ==> No**
+> **charset ==> Local**
  
-> **class ==> Yes**
+> **class ==> Global**
 
-> **id ==> Yes**
+> **id ==> Global**
 
-> **type ==> No**
+> **type ==> Local**
 
 # [assignment6](./assignment6.html)
