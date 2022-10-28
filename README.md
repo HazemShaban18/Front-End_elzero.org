@@ -12,7 +12,7 @@
 
 - [x] [For lessons 1 to 5](./html/Week1/Lessons1to5/assignments.md)
 - [x] [For lessons 6 to 10](./html/Week1/Lessons6to10/assignments.md)
-- [ ] For lessons 11 to 14
+- [x] [For lessons 11 to 14](./html/Week1/Lessons11to14/assignments.md)
 
 **Searching**
 
