@@ -2,11 +2,11 @@
 
 ## Week1
 
-**Watching Lessons**
+**Watching**
 
-- [x] 1 to 5
-- [x] 6 to 10
-- [x] 11 to 14
+- [x] Lessons 1 to 5
+- [x] Lessons 6 to 10
+- [x] Lessons 11 to 14
 
 **Assignments**
 
@@ -18,11 +18,11 @@
 
 ## Week2
 
-**Watching Lessons**
+**Watching**
 
-- [ ] 15 to 18
-- [ ] 19 to 23
-- [ ] 24 to 27
+- [ ] Lessons 15 to 18
+- [ ] Lessons 19 to 23
+- [ ] Lessons 24 to 27
 
 **Assignments**
 
