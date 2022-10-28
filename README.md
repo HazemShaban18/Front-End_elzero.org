@@ -20,13 +20,13 @@
 
 **Watching**
 
-- [ ] Lessons 15 to 18
+- [x] Lessons 15 to 18
 - [ ] Lessons 19 to 23
 - [ ] Lessons 24 to 27
 
 **Assignments**
 
-- [ ] [For lessons 15 to 18]()
+- [ ] [For lessons 15 to 18](./html/Week2/Lessons15to18/assignments.md)
 - [ ] [For lessons 19 to 23]()
 - [ ] [For lessons 24 to 27]()
 
