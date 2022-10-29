@@ -20,4 +20,4 @@
     * Install ==> False
     * Text ==> False
 
-- [ ] [assignment 2](./assignment2.html)
+- [x] [assignment 2](./assignment2.html)
