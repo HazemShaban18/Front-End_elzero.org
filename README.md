@@ -26,7 +26,7 @@
 
 **Assignments**
 
-- [ ] [For lessons 15 to 18](./html/Week2/Lessons15to18/assignments.md)
+- [x] [For lessons 15 to 18](./html/Week2/Lessons15to18/assignments.md)
 - [ ] For lessons 19 to 23
 - [ ] For lessons 24 to 27
 
