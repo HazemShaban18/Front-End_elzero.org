@@ -21,7 +21,7 @@
 **Watching**
 
 - [x] Lessons 15 to 18
-- [ ] Lessons 19 to 23
+- [x] Lessons 19 to 23
 - [ ] Lessons 24 to 27
 
 **Assignments**
