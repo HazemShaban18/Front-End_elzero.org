@@ -1,96 +1,97 @@
 # [Lessons 6 to 10](https://elzero.org/html-assignments-lesson-from-6-to-10/)
 
-# assignment1
+- [x] **assignment 1**
 
-* What line is written to tell the browser that the language version used to create the page is HTML5?
+    * What line is written to tell the browser that the language version used to create the page is HTML5?
 
->**Answer ==>**
-```html 
-<!DOCTYPE html>
-```
+        >**Answer ==>**
+        ```html 
+        <!DOCTYPE html>
+        ```
 
-* What is the Rendering Mode for the browser if you don't type the versioning line?
+    * What is the Rendering Mode for the browser if you don't type the versioning line?
 
->**Answer ==> Quirks Mode**
+        >**Answer ==> Quirks Mode**
 
-* Is it correct to use more than one h1 per page? Answer yes or no?
+    * Is it correct to use more than one h1 per page? Answer yes or no?
 
->**Answer ==> No**
+        >**Answer ==> No**
 
-* You have an item that contains product data and the product title is written in h3 Does it make sense to put a title of h2 inside the same product or not?
+    * You have an item that contains product data and the product title is written in h3 Does it make sense to put a title of h2 inside the same product or not?
 
->**Answer ==> No, Must follow the hierarchy of headers**
+        >**Answer ==> No, Must follow the hierarchy of headers**
 
-* What do the elements h1, h2, h3, h4, h5, h6 stand for?
+    * What do the elements h1, h2, h3, h4, h5, h6 stand for?
 
-> **Answer ==> headers hierarchy of the page**
+        > **Answer ==> headers hierarchy of the page**
 
-# [assignment2](./assignment2.html)
+- [x] [**assignment 2**](./assignment2.html)
 
-* Is there a difference between these elements when they are shown on the page or not?
+    * Is there a difference between these elements when they are shown on the page or not?
 
-```html
-<p class="element">Welcome To The New World</p>
-<p class='element'>Welcome To The New World</p>
-<p class=element>Welcome To The New World</p>
-```
+        ```html
+        <p class="element">Welcome To The New World</p>
+        <p class='element'>Welcome To The New World</p>
+        <p class=element>Welcome To The New World</p>
+        ```
 
-> **Answer ==> There is no difference**
+        > **Answer ==> There is no difference**
 
-# [assignment3](./assignment3.html)
+- [x] [**assignment 3**](./assignment3.html)
 
-* Is there a difference between these elements when they are shown on the page or not?
+    * Is there a difference between these elements when they are shown on the page or not?
 
-```html
-<p class=element hidden>Welcome To The New World</p>
-<p class="element" hidden>Welcome To The New World</p>
-```
+        ```html
+        <p class=element hidden>Welcome To The New World</p>
+        <p class="element" hidden>Welcome To The New World</p>
+        ```
 
-> **Answer ==> There is no difference**
+        > **Answer ==> There is no difference**
 
-# [assignment4](./assignment4.html)
+- [x] [**assignment 4**](./assignment4.html)
 
-* Will these elements all appear the same or not?
+    * Will these elements all appear the same or not?
 
-```html
-<p>Hello World</p>
+        ```html
+        <p>Hello World</p>
 
-<p>
-Hello World
-</p>
+        <p>
+        Hello World
+        </p>
 
-<p>
-Hello
-World
-</p>
+        <p>
+        Hello
+        World
+        </p>
 
-<p>
-Hello
+        <p>
+        Hello
 
 
-World
-</p>
-```
+        World
+        </p>
+        ```
 
-> **Answer ==> All of them will appear in the same format**
-# assignment5
+        > **Answer ==> All of them will appear in the same format**
 
-* Next to each Attribute from the example, write Is it from the Global Attributes or not?
+- [x] **assignment 5**
 
-> **title ==> Global** 
+    * Next to each Attribute from the example, write Is it from the Global Attributes or not?
 
-> **href ==> Local**
+        > **title ==> Global** 
 
-> **src ==> Local**
+        > **href ==> Local**
 
-> **hidden ==> Global**
+        > **src ==> Local**
 
-> **charset ==> Local**
- 
-> **class ==> Global**
+        > **hidden ==> Global**
 
-> **id ==> Global**
+        > **charset ==> Local**
+        
+        > **class ==> Global**
 
-> **type ==> Local**
+        > **id ==> Global**
 
-# [assignment6](./assignment6.html)
+        > **type ==> Local**
+
+- [x] [**assignment 6**](./assignment6.html)
