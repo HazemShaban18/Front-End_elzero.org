@@ -21,3 +21,5 @@
     * Text ==> False
 
 - [x] [assignment 2](./assignment2.html)
+
+- [ ] [assignment 3](./assignment3.html)
