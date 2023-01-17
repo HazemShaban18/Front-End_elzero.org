@@ -2,4 +2,4 @@
 
 - [x] [assignment 1](./assignment1.html)
 
-- [ ] [assignment 2](./assignment2.html)
+- [x] [assignment 2](./assignment2.html)
