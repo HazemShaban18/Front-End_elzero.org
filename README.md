@@ -3,7 +3,7 @@
 <details>
   <summary>Week1</summary>
 
-  **Watching**
+  **Watch**
 
   - [x] Lessons 1 to 5
   - [x] Lessons 6 to 10
@@ -11,17 +11,18 @@
 
   **Assignments**
 
-  - [x] [For lessons 1 to 5](./html/Week1/Lessons1to5/assignments.md)
-  - [x] [For lessons 6 to 10](./html/Week1/Lessons6to10/assignments.md)
-  - [x] [For lessons 11 to 14](./html/Week1/Lessons11to14/assignments.md)
+  - [x] [For lessons 1 to 5](./html/Week1/assignments.md)
+  - [x] [For lessons 6 to 10](./html/Week1/assignments.md)
+  - [x] [For lessons 11 to 14](./html/Week1/assignments.md)
 
   [**Keywords**](./html/Week1/Keywords.md)
+
 </details>
 
 <details>
   <summary>Week2</summary>
 
-  **Watching**
+  **Watch**
 
   - [x] Lessons 15 to 18
   - [x] Lessons 19 to 23
@@ -29,17 +30,18 @@
 
   **Assignments**
 
-  - [x] [For lessons 15 to 18](./html/Week2/Lessons15to18/assignments.md)
-  - [x] [For lessons 19 to 23](./html/Week2/Lessons19to23/assignments.md)
-  - [x] [For lessons 24 to 27](./html/Week2/Lessons24to27/assignments.md)
+  - [x] [For lessons 15 to 18](./html/Week2/assignments.md)
+  - [x] [For lessons 19 to 23](./html/Week2/assignments.md)
+  - [x] [For lessons 24 to 27](./html/Week2/assignments.md)
 
   [**Keywords**](./html/Week2/Keywords.md)
+
 </details>
 
 <details>
   <summary>Week3</summary>
 
-  **Watching**
+  **Watch**
 
   - [x] Lessons 28 to 30
   - [x] Lessons 31 to 34
@@ -47,11 +49,12 @@
 
   **Assignments**
 
-  - [ ] [For lessons 28 to 30](./html/Week3/Lessons28to30/assignments.md)
-  - [ ] [For lessons 31 to 34](./html/Week3/Lessons31to34/assignments.md)
-  - [ ] [For lessons 35 to 37](./html/Week3/Lessons35to37/assignments.md)
+  - [ ] [For lessons 28 to 30](./html/Week3/assignments.md)
+  - [ ] [For lessons 31 to 34](./html/Week3/assignments.md)
+  - [ ] [For lessons 35 to 37](./html/Week3/assignments.md)
 
   [**Keywords**](./html/Week3/Keywords.md)
+
 </details>
 
 # [CSS](https://elzero.org/study/css-2021-study-plan/)
