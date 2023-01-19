@@ -30,7 +30,7 @@
 - [x] [For lessons 19 to 23](./html/Week2/Lessons19to23/assignments.md)
 - [x] [For lessons 24 to 27](./html/Week2/Lessons24to27/assignments.md)
 
-[**Searching**]()
+[**Searching**](./html/Week2/SearchWords.md)
 
 ## Week3
 
