@@ -15,7 +15,7 @@
   - [x] [For lessons 6 to 10](./html/Week1/Lessons6to10/assignments.md)
   - [x] [For lessons 11 to 14](./html/Week1/Lessons11to14/assignments.md)
 
-  [**Searching**](./html/Week1/SearchWords.md)
+  [**Keywords**](./html/Week1/SearchWords.md)
 </details>
 
 <details>
@@ -33,7 +33,7 @@
   - [x] [For lessons 19 to 23](./html/Week2/Lessons19to23/assignments.md)
   - [x] [For lessons 24 to 27](./html/Week2/Lessons24to27/assignments.md)
 
-  [**Searching**](./html/Week2/SearchWords.md)
+  [**Keywords**](./html/Week2/SearchWords.md)
 </details>
 
 <details>
@@ -51,7 +51,7 @@
   - [ ] [For lessons 31 to 34](./html/Week3/Lessons31to34/assignments.md)
   - [ ] [For lessons 35 to 37](./html/Week3/Lessons35to37/assignments.md)
 
-  [**Searching**](./h35 to 37tml/Week3/SearchWords.md)
+  [**Keywords**](./html/Week3/SearchWords.md)
 </details>
 
 # [CSS](https://elzero.org/study/css-2021-study-plan/)
