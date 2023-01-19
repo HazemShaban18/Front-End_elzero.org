@@ -41,8 +41,8 @@
 
   **Watching**
 
-  - [ ] Lessons 28 to 30
-  - [ ] Lessons 31 to 34
+  - [x] Lessons 28 to 30
+  - [x] Lessons 31 to 34
   - [ ] Lessons 35 to 37
 
   **Assignments**
