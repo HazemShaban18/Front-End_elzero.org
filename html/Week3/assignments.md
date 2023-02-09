@@ -4,7 +4,7 @@
 
 - [x] [assignment 2](./Lessons28to30/assignment2.html)
 
-- [ ] [assignment 3](./Lessons28to30/assignment3.html)
+- [x] [assignment 3](./Lessons28to30/assignment3.html)
 
 # [Lessons 31 to 34](https://elzero.org/html-assignments-lesson-from-31-to-34)
 
