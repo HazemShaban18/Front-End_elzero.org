@@ -12,6 +12,12 @@
 
 - [x] [assignment 2](./Lessons31to34/assignment2.html)
 
+  - input month support
+
+    > https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/month#browser_compatibility
+
+    > https://bugzilla.mozilla.org/show_bug.cgi?id=888320
+
 - [ ] [assignment 3](./Lessons31to34/assignment3.html)
 
 - [ ] [assignment 4](./Lessons31to34/assignment4.html)
