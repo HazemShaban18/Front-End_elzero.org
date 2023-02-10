@@ -8,7 +8,7 @@
 
 # [Lessons 31 to 34](https://elzero.org/html-assignments-lesson-from-31-to-34)
 
-- [ ] [assignment 1](./Lessons31to34/assignment1.html)
+- [x] [assignment 1](./Lessons31to34/assignment1.html)
 
 - [ ] [assignment 2](./Lessons31to34/assignment2.html)
 
