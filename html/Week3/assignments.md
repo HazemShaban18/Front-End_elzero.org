@@ -20,7 +20,7 @@
 
 - [x] [assignment 3](./Lessons31to34/assignment3.html)
 
-- [ ] [assignment 4](./Lessons31to34/assignment4.html)
+- [x] [assignment 4](./Lessons31to34/assignment4.html)
 
 # [Lessons 35 to 37](https://elzero.org/html-assignments-lesson-from-35-to-37)
 
