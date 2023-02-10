@@ -18,7 +18,7 @@
 
     > https://bugzilla.mozilla.org/show_bug.cgi?id=888320
 
-- [ ] [assignment 3](./Lessons31to34/assignment3.html)
+- [x] [assignment 3](./Lessons31to34/assignment3.html)
 
 - [ ] [assignment 4](./Lessons31to34/assignment4.html)
 
