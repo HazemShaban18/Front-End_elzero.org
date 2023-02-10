@@ -10,7 +10,7 @@
 
 - [x] [assignment 1](./Lessons31to34/assignment1.html)
 
-- [ ] [assignment 2](./Lessons31to34/assignment2.html)
+- [x] [assignment 2](./Lessons31to34/assignment2.html)
 
 - [ ] [assignment 3](./Lessons31to34/assignment3.html)
 
