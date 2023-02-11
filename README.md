@@ -50,7 +50,7 @@
   **Assignments**
 
   - [x] [For lessons 28 to 30](./html/Week3/assignments.md#lessons-28-to-30)
-  - [ ] [For lessons 31 to 34](./html/Week3/assignments.md#lessons-31-to-34)
+  - [x] [For lessons 31 to 34](./html/Week3/assignments.md#lessons-31-to-34)
   - [ ] [For lessons 35 to 37](./html/Week3/assignments.md#lessons-35-to-37)
 
   [**Keywords**](./html/Week3/Keywords.md)
