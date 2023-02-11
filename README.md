@@ -45,13 +45,13 @@
 
   - [x] Lessons 28 to 30
   - [x] Lessons 31 to 34
-  - [ ] Lessons 35 to 37
+  - [x] Lessons 35 to 37
 
   **Assignments**
 
   - [x] [For lessons 28 to 30](./html/Week3/assignments.md#lessons-28-to-30)
   - [x] [For lessons 31 to 34](./html/Week3/assignments.md#lessons-31-to-34)
-  - [ ] [For lessons 35 to 37](./html/Week3/assignments.md#lessons-35-to-37)
+  - [x] [For lessons 35 to 37](./html/Week3/assignments.md#lessons-35-to-37)
 
   [**Keywords**](./html/Week3/Keywords.md)
 
