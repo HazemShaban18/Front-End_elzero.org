@@ -63,4 +63,4 @@
       
       * https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 
-- [ ] [assignment 2](./Lessons35to37/assignment2.html)
+- [x] [assignment 2](./Lessons35to37/assignment2.html)
