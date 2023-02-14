@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Three fields Form</title>
+</head>
+<body>
+  <form method="get">
+    <div>
+      <label for="token"></label>
+      <input type="hidden" name="token" value="b92f1fc2fce391ad7af633723afd3055" id="token">
+    </div>
+
+    <br>
+
+    <div>
+      <label for="email">Email: </label>
+      <input type="email" name="email" value="o@o.com" id="email" readonly>
+    </div>
+
+    <br>
+
+    <div>
+      <label for="username">Username: </label>
+      <input type="text" name="username" id="username" required minlength="5" maxlength="20" autofocus>
+    </div>
+
+    <br>
+
+    <input type="reset" value="Empty">
+    <input type="submit" value="Send">
+  </form>
+</body>
+</html>
