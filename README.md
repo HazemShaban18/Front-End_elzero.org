@@ -1,3 +1,5 @@
+[To check result of the assignments](https://hazembook.github.io/HTML-Study-Plan/)
+
 # Week1
 
 ## Watch
